@@ -65,8 +65,18 @@ Challenge 4 for Butler Data Science
 ![Refactored reading scores by grade](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20reading%20by%20grade.png)
 
 * Scores by school spending
-	- 
+	- Since the passing the grades were only affected by a small amount there is no change to any of the bins when bucketed by spending summary.
+
+	  - Original spending summary
+
+![Original spending summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/original%20spending%20summary.png)
+	
+	  - Refactored spending summary
+
+![Refactored spending summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20spending%20summary.png)
+
 * Scores by school size
+
 * Scores by school type
 
 
