@@ -25,7 +25,7 @@ Challenge 4 for Butler Data Science
 
 
 * How is the school summary affected?
-	- The only school affected in the per school summary is obviously Thomas High because it is the only school that had adjustments to it's totals. There was a small change in their passing scores. Passing math scores went down .1 percentage points, passing reading scores went down .3 percentage points and overall passing scores went down .3 percentage points.
+	- The only school affected in the per school summary is obviously Thomas High because it is the only school that had adjustments to student's grades. There were small changes in their passing scores. Passing math scores went down .1 percentage points, passing reading scores went down .3 percentage points and overall passing scores went down .3 percentage points.
 
 	  - Original Per School summary
 
@@ -36,6 +36,18 @@ Challenge 4 for Butler Data Science
 ![Refactored Per School summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20per%20school%20summary.png)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+	- Although there are small changes to the passing scores at Thomas High school, this does not change the school's performance relative to the other schools in the district. It was the number two school before the removal of ninth grade scores and remains the number two school after the removal.
+
+	  - Original Top 5 Schools
+
+![Original Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/originalperschoolsummary.png)
+	
+	  - Refactored Top 5 Schools
+
+![Refactored Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20per%20school%20summary.png)
+
+
+
 * How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
 * Scores by school spending
