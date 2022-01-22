@@ -65,12 +65,11 @@ Challenge 4 for Butler Data Science
 ![Refactored reading scores by grade](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20reading%20by%20grade.png)
 
 * Scores by school spending
+	- 
 * Scores by school size
 * Scores by school type
 
 
-![Code Section 2](https://github.com/coxjack/PythonChallenge3/blob/main/Additional%20Supporting%20Images/code_pt_2.png)
-![Code Section 3](https://github.com/coxjack/PythonChallenge3/blob/main/Additional%20Supporting%20Images/code_pt_3.png)
 
 ## 3. Election Audit Summary
 ### 
