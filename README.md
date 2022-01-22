@@ -91,7 +91,7 @@ Challenge 4 for Butler Data Science
 
 	  - Original type summary
 
-![Original type summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/original%20type%20summary.png
+![Original type summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/original%20type%20summary.png)
 	
 	  - Refactored type summary
 
