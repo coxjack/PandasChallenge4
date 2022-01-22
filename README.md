@@ -40,11 +40,11 @@ Challenge 4 for Butler Data Science
 
 	  - Original Top 5 Schools
 
-![Original Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/originalperschoolsummary.png)
+![Original Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/original%20top%205.png)
 	
 	  - Refactored Top 5 Schools
 
-![Refactored Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20per%20school%20summary.png)
+![Refactored Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20top%205.png)
 
 
 
