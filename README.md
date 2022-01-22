@@ -47,7 +47,23 @@ Challenge 4 for Butler Data Science
 ![Refactored Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20top%205.png)
 
 * Math and reading scores by grade
-	-
+	- The only change to the scores by grade is the Thomas High School ninth graders now display a NaN instead of their original scores. This applies to both math and reading since both scores were removed.
+	  - Original math scores by grade
+
+![Original math scores by grade](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/original%20math%20scores%20by%20grade.png)
+	
+	  - Original reading scores by grade
+
+![Original reading scores by grade](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/orginal%20reading%20scores%20by%20grade.png)
+
+	  - Refactored math scores by grade
+
+![Refactored math scores by grade](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20math%20by%20grade.png)
+	
+	  - Refactored reading scores by grade
+
+![Refactored reading scores by grade](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20reading%20by%20grade.png)
+
 * Scores by school spending
 * Scores by school size
 * Scores by school type
