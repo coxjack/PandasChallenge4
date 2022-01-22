@@ -25,7 +25,7 @@ Challenge 4 for Butler Data Science
 
 
 * How is the school summary affected?
-	- The only school affected in the per school summary is obviously Thomas High because it is the only school that had adjustments to it's totals. There was a great change in their passing scores. Passing math scores went up 26 percentage points, passing reading scores went up 27 percentage points and overall passing scores went up 25 percentage points.
+	- The only school affected in the per school summary is obviously Thomas High because it is the only school that had adjustments to it's totals. There was a small change in their passing scores. Passing math scores went down .1 percentage points, passing reading scores went down .3 percentage points and overall passing scores went down .3 percentage points.
 
 	  - Original Per School summary
 
