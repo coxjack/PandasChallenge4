@@ -15,11 +15,11 @@ Challenge 4 for Butler Data Science
 * How is the district summary affected?
 	- We removed 461 student grades and recalculated the passing scores. The passing scores did go down very slightly. Math from 75 to 74.8. Reading from 86 to 85.7 and overall passing from 65 to 64.9 
 
-	- Original District summary
+	  - Original District summary
 
 ![Original district summary df](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/Original%20District%20Summary.png)
 	
-	- Refactored District summary
+	  - Refactored District summary
 
 ![Refactored district summary df](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/Refactored%20District%20Summary.png)
 
