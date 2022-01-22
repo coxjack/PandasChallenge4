@@ -87,22 +87,23 @@ Challenge 4 for Butler Data Science
 ![Refactored size summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20size%20summary.png)
 
 * Scores by school type
+	- Since the passing the grades were only affected by a small amount there is no change to any of the bins when bucketed by school type.
+
+	  - Original type summary
+
+![Original type summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/original%20type%20summary.png
+	
+	  - Refactored type summary
+
+![Refactored type summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20type%20summary.png)
 
 
-
-## 3. Election Audit Summary
+## 3. School district Summary
 ### 
-* Applying this script to any election audit is easy. The first thing we would need to do is import from whatever results file we would have. 
-	- Add a variable to load a file from a path.
-	  - ***Original Script***
-	    - file_to_load = os.path.join("Resources", "election_results.csv")
-	  - ***Modified Script***
-	    - file_to_load = os.path.join("Any_election_results.csv)
-* If this was a national election we could instead gather votes by state.
-	- Create a list and votes dictionary
-	  - ***Original Script***
-	    - county_options = []
-	    - county_votes = {}
-	  - ***Modified Script***
-	    - state_options = []
-	    - state_votes = {}
+* The four changes that were shown in the analysis after reading and math scores for Thomas High School ninth graders were been replaced with NaNs are the following:
+	- Total student count went from 39170 to 38709 when removing the scores for the 461 Thomas High ninth grade students
+	- Passing math scores at Thomas High School dropped from 93.27% to 93.19%
+	- Passing reading scores at Thomas High School dropped from 97.31% to 97.02%
+	- Overall passing scores at Thomas High School dropped from 90.95% to 90.63%
+
+
