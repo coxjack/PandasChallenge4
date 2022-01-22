@@ -29,7 +29,7 @@ Challenge 4 for Butler Data Science
 
 	  - Original Per School summary
 
-![Original Per School summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/original%20per%20school%20summary.png)
+![Original Per School summary](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/originalperschoolsummary.png)
 	
 	  - Refactored Per School summary
 
