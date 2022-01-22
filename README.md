@@ -46,10 +46,8 @@ Challenge 4 for Butler Data Science
 
 ![Refactored Top 5 Schools](https://github.com/coxjack/PandasChallenge4/blob/main/additional%20supporting%20images/refactored%20top%205.png)
 
-
-
-* How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
+	-
 * Scores by school spending
 * Scores by school size
 * Scores by school type
